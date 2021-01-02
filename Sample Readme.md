@@ -1,4 +1,0 @@
-# Sample Readme
-
-## hunki hi!
-
